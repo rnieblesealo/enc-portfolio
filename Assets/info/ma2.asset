@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: ma2
   m_EditorClassIdentifier: 
   title: MA2 | Writing Process Photo Essay
-  description: Description
-  hyperlink: google.com
-  preview: {fileID: 21300000, guid: d4c73b812abe34c4e90a4de83aa007f8, type: 3}
+  description: The second major assignment continues students' reshaping of their
+    conceptions of writing by prompting them to reflect upon their writing process.
+    In doing this, I was personally able to construct a definite image of what my
+    writing process looks like, and in doing so, was able to find aspects of it which
+    I wish to reshape and reflect upon.
+  hyperlink: https://docs.google.com/document/d/1ByqLnzUPOOJa2AnzT6_QVYziF7jlREXQ/edit?usp=share_link&ouid=114888449535776519832&rtpof=true&sd=true
+  preview: {fileID: 21300000, guid: 08f8aee4175a84b64a108b81f9f0c26d, type: 3}

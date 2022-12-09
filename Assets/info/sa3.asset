@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
   m_Name: sa3
   m_EditorClassIdentifier: 
-  title: 
-  description: 
-  hyperlink: 
-  preview: {fileID: 0}
+  title: NWWK Quiz | Page 50 Response
+  description: This quiz question regarding the ideas of writing challenges my ability
+    to adapt my understanding to other cultures and contexts by reflecting on how
+    writing is able to affect the writer, their identity, and their surroundings
+    over time, and how these three processes are always present regardless of what
+    the writer is actively producing.
+  hyperlink: https://drive.google.com/file/d/1gwEspgso9MIZyMnG2P2lQrvzJmLePiSW/view?usp=share_link
+  preview: {fileID: 21300000, guid: 8c6f46bfba2e2426a88a62564ca048ca, type: 3}

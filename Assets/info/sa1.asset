@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
   m_Name: sa1
   m_EditorClassIdentifier: 
-  title: NWWK Quiz | 2.2 & 2.6
-  description: 
-  hyperlink: 
-  preview: {fileID: 0}
+  title: NWWK Quiz | 1.0 Response
+  description: This quiz question involving the rhetorical aspect of writing allowed
+    me to reflect on the power a writer holds at the time of producing text by prompting
+    me to reflect on how I have taken advantage of my writing's power in the past.
+    It displays my newfound perception of writing as powerful and transcendental.
+  hyperlink: https://drive.google.com/file/d/1GJZrSwdwGWLhUSL6WocRatNXrw1sAHFH/view?usp=share_link
+  preview: {fileID: 21300000, guid: 1c9d9b59fdbea4d42a0e100518296956, type: 3}

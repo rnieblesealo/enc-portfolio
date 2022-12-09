@@ -3,7 +3,22 @@ guid: b33f314383500406bb8848cde84b92f3
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lead
+    second: {fileID: 2100000, guid: a54594f75139543d8b96c84f9c0b3c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pencil body
+    second: {fileID: 2100000, guid: cfe01320fc0e04ed2ab12184b486803d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pencil tip
+    second: {fileID: 2100000, guid: c2cca8cda76244eabbef14bee35f0dde, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

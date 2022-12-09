@@ -46,7 +46,7 @@ public class Locomotor : MonoBehaviour
             Quaternion new_rot = transform.localRotation;
             
             distance = Vector3.Distance(transform.position, moveTarget);
-            move = distance >= minDistance && !stopped;
+            move = distance >= minDistance && !stopped && Application.isFocused;
 
             if (move)
             {
@@ -78,6 +78,12 @@ public class Locomotor : MonoBehaviour
                     panel.Set(selectedArtifact.panelInfo);
                     panel.active = true;
                     stopped = true;
+
+                    // If click on artifact, open URL of item
+                    if (Input.GetKeyDown(KeyCode.Mouse0))
+                    {
+                        Application.OpenURL(selectedArtifact.panelInfo.hyperlink);
+                    }
                 }
 
                 else

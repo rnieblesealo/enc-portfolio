@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
   m_Name: ma3
   m_EditorClassIdentifier: 
-  title: 
-  description: 
-  hyperlink: 
-  preview: {fileID: 0}
+  title: MA3 | Challenging and Exploring Conceptions
+  description: The third major assignment finalizes students' re-familiarization
+    with writing through getting them to reflect on their conceptions of writing
+    after ENC 1101. This assignment allowed me to piece together my new conceptions
+    of writing, solidifying my perception of my own writing process and its adaptation
+    throughout the course.
+  hyperlink: https://docs.google.com/document/d/1nHneN6j30Fbvh_v--PvIC6p2k-GQHXy5/edit?usp=share_link&ouid=114888449535776519832&rtpof=true&sd=true
+  preview: {fileID: 21300000, guid: 5fd5bf60c60a04e4f81f82b11443b5f0, type: 3}
