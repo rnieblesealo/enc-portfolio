@@ -24,7 +24,7 @@ public class InfoPanel : MonoBehaviour
     private void Update()
     {
         // Set position to player
-        transform.position = new Vector3(Input.mousePosition.x - rectTransform.rect.width / 2, Input.mousePosition.y - rectTransform.rect.height / 2);
+        transform.position = Input.mousePosition;
 
         if (active)
         {
