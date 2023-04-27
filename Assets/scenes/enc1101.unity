@@ -2983,7 +2983,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.0019531, y: 62.83}
+  m_AnchoredPosition: {x: 0.0019531, y: 62.829956}
   m_SizeDelta: {x: 8533.3, y: 558.48}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &732664788
@@ -10491,7 +10491,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.0019531, y: 62.83}
+  m_AnchoredPosition: {x: 0.0019531, y: 62.829956}
   m_SizeDelta: {x: 1920, y: 154.539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1827397032
@@ -10552,11 +10552,11 @@ MonoBehaviour:
   - Hey there!
   - My name's Rafael Niebles.
   - Welcome to my ePortfolio!
-  - Feel free to explore around.
+  - The work here shows my evolution as a writer throughout ENC1102.
   - That little red car is you!
   - It will follow wherever you point.
-  - If you see something interesting, click on it to see more!
-  - Have fun ;)
+  - Follow the green signs to see my journey in writing!
+  - Have fun :D
   nextSlideDelay: 3.35
   welcomeText: {fileID: 1827397032}
   welcomeBackground: {fileID: 732664788}

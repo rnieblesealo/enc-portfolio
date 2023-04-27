@@ -18,9 +18,10 @@ public class Target : MonoBehaviour
 
         // Target tracks player
         Ray screenRay = Camera.main.ScreenPointToRay(Input.mousePosition);
+
         if (Physics.Raycast(screenRay, out RaycastHit hit, 500, whatIsTarget)){
             Vector3 target = hit.point;
-            transform.position = new Vector3(hit.point.x, 1, hit.point.z);
+            transform.position = new Vector3(hit.point.x, hit.point.y + 0.5f, hit.point.z);
         }
     }
 }
