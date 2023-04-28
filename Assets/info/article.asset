@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
+  m_Name: article
+  m_EditorClassIdentifier: 
+  title: Scholarly Article
+  description: Once one has enough appropriately organized secondary information
+    with a strong connection to one's central argument, it becomes time to conduct
+    primary research. As a researcher, I was surprised to see how much rigor one
+    must abide by in order to conduct credible research. I found it especially surprising
+    that we had to gain CITI certification in order to assert our credibility. However,
+    it all helped me understand the workings of conducting primary research to the
+    extent that I found myself comfortable in conducting my own without the compunction
+    of putting out work whose credibility is potentially lacking. Using a survey
+    with three distinct kids of questions (multiple choice, scale-based, and open
+    response), I was able to collect simple yet meaningful data from a pertinenet
+    target audience and organize it in a comprehensive way using techniques such
+    as coding in order to appropriately dispose it for analysis, which resulted to
+    be particularly easy thanks to the rigor of my developed primary research techniques.
+  hyperlink: https://drive.google.com/file/d/1SBhBGkHf3sGC8_6pyzDa8oYME1HtGCbF/view?usp=share_link
+  extra1: Revision
+  extra2: Research Gen. Production
+  extra1Color: {r: 1, g: 0.3796171, b: 0, a: 1}
+  extra2Color: {r: 1, g: 0.3647059, b: 0.85490197, a: 1}
+  extra1TextColor: {r: 1, g: 1, b: 1, a: 1}
+  extra2TextColor: {r: 1, g: 1, b: 1, a: 1}
+  preview: {fileID: 21300000, guid: b07d6c9f3d3404eb8bd085472b5c7d93, type: 3}

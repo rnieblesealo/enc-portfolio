@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
+  m_Name: 2pw
+  m_EditorClassIdentifier: 
+  title: Synthesis Matrix
+  description: Once the maturity of one's research ideas gets to a point where a
+    direction is resolute, the crucial phase of conducting secondary research begins.
+    This second major task given to us in ENC1102 consisted in gathering diverse
+    pieces of pertinent information from scholarly sources in order to begin building
+    a central argument, which is meant to carry one's research thesis throughout
+    further stages. This task required extensive analysis of other authors' arguments,
+    with a special emphasis on connecting the information originating from such sources.
+    All of the latter was done using a data table divided into several sections,
+    each one with its own focus (Niebles, "Synthesis Matrix"). Exploring this information
+    in such a way helped me make my own conclusions, thus helping me contribute knowledge.
+    Additionally, the process of understanding the writing of others, which requires
+    particular attention to credibility, led me to develop my information literacy
+    skills.
+  hyperlink: https://drive.google.com/file/d/1Nz8ZcU5bQtPbN0upqdws7rmtqSXTyyyX/view?usp=share_link
+  extra1: Information Literacy
+  extra2: Contributing Knowledge
+  extra1Color: {r: 0.3971928, g: 0.8301887, b: 0.37201852, a: 1}
+  extra2Color: {r: 1, g: 0.67876756, b: 0, a: 1}
+  extra1TextColor: {r: 1, g: 1, b: 1, a: 1}
+  extra2TextColor: {r: 1, g: 1, b: 1, a: 1}
+  preview: {fileID: 21300000, guid: 906c3ad904cd24d45a4ee8caf6a1a153, type: 3}

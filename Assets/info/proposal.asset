@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cca03769f2274c2581e45ce0cec9bb2, type: 3}
+  m_Name: proposal
+  m_EditorClassIdentifier: 
+  title: Initial Research Proposal
+  description: 'It all begins with an idea. Our first task in ENC1102, developing
+    a research proppsal, allowed me to truly understand how a viable research prompt
+    really looks like when the latter is situated within the context of writing studies.
+    Initially, my research question asked "how can the quality of mathematical education
+    be improved such that students find it easier to engage and comprehend its content?"
+    (Niebles, "Initial Research Project Proposal", 2). Although it initially sounded
+    like an appropriate research question, it happened to be highly disconnected
+    from the context of writing studies, given that it focused on the issues with
+    mathematical education themselves rather than the conversation surrounding them,
+    and also lacked a sufficiently specific scope.Therefore, after obtaining some
+    much-needed feedback, the research question I ended up with was the following:
+    "What arguments are the public making about the issues with mathematical education,
+    and how are those constructed?" (Niebles, "Data Report", 6). This final question
+    was more guided, clear, and relevant to my chosen topic of mathematical education.
+    Understanding the flaws of this proposal helped me solidify my foundations in
+    what is perhaps the most important aspect of research: Asking the right questions.'
+  hyperlink: https://drive.google.com/file/d/116PGoRpB2QrVX7F3ICGbVB7FtMBvUkTO/view?usp=share_link
+  extra1: Generating Inquiry
+  extra2: 
+  extra1Color: {r: 0.9528302, g: 0.2635877, b: 0.23820755, a: 1}
+  extra2Color: {r: 0, g: 0, b: 0, a: 0}
+  extra1TextColor: {r: 1, g: 1, b: 1, a: 1}
+  extra2TextColor: {r: 0, g: 0, b: 0, a: 0}
+  preview: {fileID: 21300000, guid: 2688b61d1a8534585ab8c6ec219380f4, type: 3}
